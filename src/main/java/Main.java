@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Test1");
         System.out.println("Ветка тест");
         System.out.println("reset main нужно добавить в тест");
+        System.out.println(" ");
     }
 }
